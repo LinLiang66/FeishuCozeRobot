@@ -82,7 +82,7 @@ Encrypt Key和 Verification Token 用于验证请求是否合法
 
 然而, 如果你正在使用这个项目并感觉良好，或只是想要支持我继续开发，你可以通过如下方式：
 
-- 在你的 readme 中使用 github-readme-stats 时，链接指向这里 :D
+- 在你的 readme 中使用 FeishuCozeRobot 时，链接指向这里 :D
 - Star 并 分享这个项目 :rocket:
 -- 你可以通过 AliPay 一次性捐款. 我多半会买一杯 ~~咖啡~~ 茶. :tea:
 谢谢！ :heart:
