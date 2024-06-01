@@ -25,9 +25,9 @@ App ID、 App Secret
 ### 4.应用配置信息入库Redis缓存
 ```json
 {
-    "appid": "cli_a51e57ce4179900b",
-    "app_secret": "gRUSCqIIeJKSdPwCG8uq0fW2c2myGy3g",
-    "verification_token": "Mj3kyPKUCVC9ChmfqiB2U5ZMrArY6hJr",
+    "appid": "cli_a51e4179900b",
+    "app_secret": "gRUSCqIIeJwCG8uq0fW2c2myGy3g",
+    "verification_token": "Mj3kyPKUCqiB2U5ZMrArY6hJr",
     "encrypt_key": "Lin927919732Liang",
     "robot_appid": "您的扣子BotId",
     "robot_api_key": "您的扣子ApiPersonal_Access_Token"
@@ -75,6 +75,21 @@ Encrypt Key和 Verification Token 用于验证请求是否合法
 
 飞书 [https://feishu.cn](https://open.feishu.cn)
 
+
+## :sparkling_heart: 支持这个项目
+
+我尽己所能地进行开源，并且我尽量回复每个在使用项目时需要帮助的人。很明显，这需要时间，但你可以免费享受这些。
+
+然而, 如果你正在使用这个项目并感觉良好，或只是想要支持我继续开发，你可以通过如下方式：
+
+- 在你的 readme 中使用 FeishuCozeRobot 时，链接指向这里 :D
+- Star 并 分享这个项目 :rocket:
+-- 你可以通过 AliPay 一次性捐款. 我多半会买一杯 ~~咖啡~~ 茶. :tea:
+谢谢！ :heart:
+![image](https://github.com/LinLiang66/FeishuCozeRobot/assets/93206426/4280b815-646c-4ed5-b606-13752e1ae429)
+
+
+---
 
 ## :sparkling_heart: 支持这个项目
 
