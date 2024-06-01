@@ -75,3 +75,19 @@ Encrypt Key和 Verification Token 用于验证请求是否合法
 
 飞书 [https://feishu.cn](https://open.feishu.cn)
 
+
+## :sparkling_heart: 支持这个项目
+
+我尽己所能地进行开源，并且我尽量回复每个在使用项目时需要帮助的人。很明显，这需要时间，但你可以免费享受这些。
+
+然而, 如果你正在使用这个项目并感觉良好，或只是想要支持我继续开发，你可以通过如下方式：
+
+- 在你的 readme 中使用 github-readme-stats 时，链接指向这里 :D
+- Star 并 分享这个项目 :rocket:
+-- 你可以通过 AliPay 一次性捐款. 我多半会买一杯 ~~咖啡~~ 茶. :tea:
+  ![06f9d5a18a73b56461275906113499a](https://github.com/LinLiang66/FeishuCozeRobot/assets/93206426/a99e123d-99da-46c1-9945-3534d77ea7a4)
+
+
+谢谢！ :heart:
+
+---
