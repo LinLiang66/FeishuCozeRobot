@@ -51,12 +51,12 @@ Encrypt Key和 Verification Token 用于验证请求是否合法
 
 订阅：接收消息即可，其他事件随意
 
-1.消息事件订阅 im.message.receive_v1【接收消息v2.0】
-
+ 1.消息事件订阅 im.message.receive_v1【接收消息v2.0】
+ 
 ![image](https://github.com/LinLiang66/FeishuCozeRobot/assets/93206426/3d2bce86-d8de-4041-93ec-59081b61c8b8)
 
-2.卡片事件订阅 card.action.trigger【卡片回传交互】、card.action.trigger_v1【消息卡片回传交互（旧）】
-
+  2.卡片事件订阅 card.action.trigger【卡片回传交互】、card.action.trigger_v1【消息卡片回传交互（旧）】
+  
 ![image](https://github.com/LinLiang66/FeishuCozeRobot/assets/93206426/9924a1fd-4814-4368-80f3-d17b54ba589b)
 
 ### 4.权限管理
@@ -84,7 +84,24 @@ Encrypt Key和 Verification Token 用于验证请求是否合法
 
 - 在你的 readme 中使用 FeishuCozeRobot 时，链接指向这里 :D
 - Star 并 分享这个项目 :rocket:
-  -- 你可以通过 AliPay 一次性捐款. 我多半会买一杯 ~~咖啡~~ 茶. :tea:
-  谢谢！ :heart:
-  ![image](https://github.com/LinLiang66/FeishuCozeRobot/assets/93206426/4280b815-646c-4ed5-b606-13752e1ae429)
+-- 你可以通过 AliPay 一次性捐款. 我多半会买一杯 ~~咖啡~~ 茶. :tea:
+谢谢！ :heart:
+![image](https://github.com/LinLiang66/FeishuCozeRobot/assets/93206426/4280b815-646c-4ed5-b606-13752e1ae429)
+
+
+---
+
+## :sparkling_heart: 支持这个项目
+
+我尽己所能地进行开源，并且我尽量回复每个在使用项目时需要帮助的人。很明显，这需要时间，但你可以免费享受这些。
+
+然而, 如果你正在使用这个项目并感觉良好，或只是想要支持我继续开发，你可以通过如下方式：
+
+- 在你的 readme 中使用 FeishuCozeRobot 时，链接指向这里 :D
+- Star 并 分享这个项目 :rocket:
+-- 你可以通过 AliPay 一次性捐款. 我多半会买一杯 ~~咖啡~~ 茶. :tea:
+谢谢！ :heart:
+![image](https://github.com/LinLiang66/FeishuCozeRobot/assets/93206426/4280b815-646c-4ed5-b606-13752e1ae429)
+
+
 ---
