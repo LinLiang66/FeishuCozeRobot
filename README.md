@@ -86,7 +86,4 @@ Encrypt Key和 Verification Token 用于验证请求是否合法
 - Star 并 分享这个项目 :rocket:
 -- 你可以通过 AliPay 一次性捐款. 我多半会买一杯 ~~咖啡~~ 茶. :tea:
 谢谢！ :heart:
-![image](https://github.com/LinLiang66/FeishuCozeRobot/assets/93206426/4280b815-646c-4ed5-b606-13752e1ae429)
-
-
 ---
