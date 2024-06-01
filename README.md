@@ -23,7 +23,7 @@ App ID、 App Secret
 ![image](https://github.com/LinLiang66/FeishuCozeRobot/assets/93206426/2957575a-a9da-4a91-b536-9d4a56cfddc0)
 
 ### 4.应用配置信息入库Redis缓存
-``json
+```json
 {
     "appid": "cli_a51e57ce4179900b",
     "app_secret": "gRUSCqIIeJKSdPwCG8uq0fW2c2myGy3g",
@@ -32,7 +32,7 @@ App ID、 App Secret
     "robot_appid": "您的扣子BotId",
     "robot_api_key": "您的扣子ApiPersonal_Access_Token"
 }
-``
+```
 ### 4.事件订阅安全验证
 
 Encrypt Key和 Verification Token 用于验证请求是否合法
