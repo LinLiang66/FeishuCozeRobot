@@ -1,0 +1,14 @@
+{
+  "app_name": "FeishuCozeRobot",
+  "app_model": "debug",
+  "app_host": "localhost",
+  "app_port": "你的启动端口号",
+  "bot_id": "你的BOTID",
+  "bot_token": "您的BOTAPITOKEN",
+  "redis_config": {
+    "addr": "你的Redis地址",
+    "port": 你的Redis端口,
+    "password": "你的Redis密码",
+    "db": 0
+  }
+}
