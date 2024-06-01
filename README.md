@@ -25,12 +25,12 @@ App ID、 App Secret
 ### 4.应用配置信息入库Redis缓存
 ```json
 {
-"appid": "cli_a51e57ce4179900b",
-"app_secret": "gRUSCqIIeJKSdPwCG8uq0fW2c2myGy3g",
-"verification_token": "Mj3kyPKUCVC9ChmfqiB2U5ZMrArY6hJr",
-"encrypt_key": "Lin927919732Liang",
-"robot_appid": "您的扣子BotId",
-"robot_api_key": "您的扣子ApiPersonal_Access_Token"
+    "appid": "cli_a51e57ce4179900b",
+    "app_secret": "gRUSCqIIeJKSdPwCG8uq0fW2c2myGy3g",
+    "verification_token": "Mj3kyPKUCVC9ChmfqiB2U5ZMrArY6hJr",
+    "encrypt_key": "Lin927919732Liang",
+    "robot_appid": "您的扣子BotId",
+    "robot_api_key": "您的扣子ApiPersonal_Access_Token"
 }
 ```
 ### 4.事件订阅安全验证
@@ -51,12 +51,12 @@ Encrypt Key和 Verification Token 用于验证请求是否合法
 
 订阅：接收消息即可，其他事件随意
 
-1.消息事件订阅 im.message.receive_v1【接收消息v2.0】
-
+ 1.消息事件订阅 im.message.receive_v1【接收消息v2.0】
+ 
 ![image](https://github.com/LinLiang66/FeishuCozeRobot/assets/93206426/3d2bce86-d8de-4041-93ec-59081b61c8b8)
 
-2.卡片事件订阅 card.action.trigger【卡片回传交互】、card.action.trigger_v1【消息卡片回传交互（旧）】
-
+  2.卡片事件订阅 card.action.trigger【卡片回传交互】、card.action.trigger_v1【消息卡片回传交互（旧）】
+  
 ![image](https://github.com/LinLiang66/FeishuCozeRobot/assets/93206426/9924a1fd-4814-4368-80f3-d17b54ba589b)
 
 ### 4.权限管理
