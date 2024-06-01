@@ -85,9 +85,8 @@ Encrypt Key和 Verification Token 用于验证请求是否合法
 - 在你的 readme 中使用 github-readme-stats 时，链接指向这里 :D
 - Star 并 分享这个项目 :rocket:
 -- 你可以通过 AliPay 一次性捐款. 我多半会买一杯 ~~咖啡~~ 茶. :tea:
-  ![06f9d5a18a73b56461275906113499a](https://github.com/LinLiang66/FeishuCozeRobot/assets/93206426/a99e123d-99da-46c1-9945-3534d77ea7a4)
-
-
 谢谢！ :heart:
+![image](https://github.com/LinLiang66/FeishuCozeRobot/assets/93206426/4280b815-646c-4ed5-b606-13752e1ae429)
+
 
 ---
